@@ -27,8 +27,8 @@ DHT dht(DHT11PIN, DHT11);
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Ruslan";
-char pass[] = "Ruslan1424%";
+char ssid[] = "WiFi SSID";
+char pass[] = "WiFi password";
 
 BlynkTimer timer;
 
